@@ -1,1 +1,1 @@
-web: gunicorn my-project-hello-world-uckj.wsgi
+web: gunicorn my-project.wsgi
